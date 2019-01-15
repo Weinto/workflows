@@ -51,6 +51,8 @@ In a `vue` template:
 
 You can define the datetime format with named (e.g. short, long, etc), and you need to use [the options with ECMA-402 Intl.DateTimeFormat](http://www.ecma-international.org/ecma-402/2.0/#sec-intl-datetimeformat-constructor)
 
+[The 5 laws about API dates and times](http://apiux.com/2013/03/20/5-laws-api-dates-and-times/)
+
 ### Use date time formats
 
 In a `vue` template:
